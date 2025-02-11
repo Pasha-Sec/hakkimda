@@ -1,1 +1,9 @@
-# hakkimda
+[! [MasterHead]<h1 align="center">Merhaba ben Metehan Çakın</h1>
+<h3 align="center">Etik Hacker + Geliştirici</h3>
+
+<h3 align="sol">Benimle birlikteyim:</h3>
+<p align="sol">
+</p>
+
+<h3 align="sol">Languages and Tools:</h3>
+<p align="sol"> <a href="https://developer.android" target="_blank" rel="noreferer"> <img src="https://hthubusercontent.com/devicons/devicon/master/icons/android-orijinal-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.arduin.cc/" target="_blank" rel="noreferrer> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferer"> <img src="https://hthubusercontent.com/devicon/devicon/master/icons/icons/icons/java-orijinal.svg" alt="java" width="40" height=40"/> </a> <a href="https://developer.mollilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercont.com/devicon/devicon/master/icons/ivascript/javascript-orijinal.svg" alt="javascript" width=40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://www.githubusercontent.com/devicon/devicon/master/icons/licons/linux/lilux-orijinal.svg" alt="intuz=40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://htttps://http://https://http.githubusercont.com/devicon/master/icons/php-php-orijinal.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://hthubusercont.com/devicons/devicon/master/icons/icons/python/python-orijinal.svg" alt="python" width="40"40" height="40"/> </a> <a href="https://www.rust-lang.org" target="_blank" rel="noreferrer"> <img src="https://htthtps://hthubusercontent.com/devicons/devicon/master/icons/rust/rust/rust-plain.svg" alt="rust" width=40" height=40"/> </a> </p>
