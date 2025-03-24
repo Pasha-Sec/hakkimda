@@ -4,11 +4,6 @@
     <li><strong>Yazılım Geliştirme Elemanı</strong> – Desen Astar (Nisan 2018 - Ocak 2023)</li>
 </ul>
 
-<h2>📚 Eğitim Bilgileri</h2>
-<ul>
-    <li><strong>Karabük Üniversitesi</strong> – Grafik Tasarımı (Lisans) (Ocak 2022 - Devam Ediyor)</li>
-</ul>
-
 <h2>🌍 Diller</h2>
 <ul>
     <li>İngilizce (Temel)</li>
