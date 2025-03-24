@@ -1,9 +1,39 @@
-[! [MasterHead]<h1 align="center">Merhaba ben Metehan Çakın</h1>
-<h3 align="center">Etik Hacker + Geliştirici</h3>
+<h2>📌 İş Deneyimleri</h2>
+<ul>
+    <li><strong>Yazılım Geliştirme Elemanı</strong> – Plan Gayrimenkul ON3 Yatırım (Ocak 2024 - Mart 2025)</li>
+    <li><strong>Yazılım Geliştirme Elemanı</strong> – Desen Astar (Nisan 2018 - Ocak 2023)</li>
+</ul>
 
-<h3 align="sol">Benimle birlikteyim:</h3>
-<p align="sol">
-</p>
+<h2>📚 Eğitim Bilgileri</h2>
+<ul>
+    <li><strong>Karabük Üniversitesi</strong> – Grafik Tasarımı (Lisans) (Ocak 2022 - Devam Ediyor)</li>
+</ul>
 
-<h3 align="sol">Languages and Tools:</h3>
-<p align="sol"> <a href="https://developer.android" target="_blank" rel="noreferer"> <img src="https://hthubusercontent.com/devicons/devicon/master/icons/android-orijinal-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.arduin.cc/" target="_blank" rel="noreferrer> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferer"> <img src="https://hthubusercontent.com/devicon/devicon/master/icons/icons/icons/java-orijinal.svg" alt="java" width="40" height=40"/> </a> <a href="https://developer.mollilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercont.com/devicon/devicon/master/icons/ivascript/javascript-orijinal.svg" alt="javascript" width=40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://www.githubusercontent.com/devicon/devicon/master/icons/licons/linux/lilux-orijinal.svg" alt="intuz=40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://htttps://http://https://http.githubusercont.com/devicon/master/icons/php-php-orijinal.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://hthubusercont.com/devicons/devicon/master/icons/icons/python/python-orijinal.svg" alt="python" width="40"40" height="40"/> </a> <a href="https://www.rust-lang.org" target="_blank" rel="noreferrer"> <img src="https://htthtps://hthubusercontent.com/devicons/devicon/master/icons/rust/rust/rust-plain.svg" alt="rust" width=40" height=40"/> </a> </p>
+<h2>🌍 Diller</h2>
+<ul>
+    <li>İngilizce (Temel)</li>
+</ul>
+
+<h2>🛠️ Yetenekler</h2>
+<ul>
+    <li>Linux, Linux Yönetimi, Debian Linux, Linux Kernel</li>
+    <li>HTML, JSON, CSS, Web Servis</li>
+    <li>MS SQL Server, MySQL</li>
+    <li>Python, Java, Kotlin, PHP, C, Bash/Shell, jQuery</li>
+    <li>Android & iOS Uygulama Geliştirme</li>
+    <li>Adobe Illustrator, Adobe Photoshop</li>
+    <li>Otomasyon Sistemleri</li>
+    <li>Sertifikalı Etik Hacker</li>
+</ul>
+
+<h2>🎓 Sertifikalar & Kurslar</h2>
+<ul>
+    <li><strong>HTP Academy – Hack The Box Academy</strong> (Temmuz 2022)<br>
+        "Certified Bug Bounty Hunter" (CBBH) programını başarıyla tamamladı. <br>
+        Hack The Box platformunda siber güvenlik becerilerini geliştirdi.
+    </li>
+    <li><strong>TryHackMe</strong> (Ocak 2021)<br>
+        "Complete Beginner Learning Path" kursunu tamamladı. <br>
+        Siber güvenlik eğitimleri sunan TryHackMe platformunda yetkinlik kazandı.
+    </li>
+</ul>
