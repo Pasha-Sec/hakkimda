@@ -1,9 +1,5 @@
 
 
-<p align="center">
-  <img src="https://media.giphy.com/media/l3vRn3931E9FcgJEA/giphy.gif" width="100%">
-</p>
-
 <h2>📌 İş Deneyimleri</h2>
 <ul>
     <li><strong>Yazılım Geliştirme Elemanı</strong> – Plan Gayrimenkul ON3 Yatırım (Ocak 2024 - Mart 2025)</li>
@@ -38,7 +34,3 @@
         Siber güvenlik eğitimleri sunan TryHackMe platformunda yetkinlik kazandı.
     </li>
 </ul>
-
-<p align="center">
-  <img src="https://media.giphy.com/media/3o7bu3XilJ5BOiSGic/giphy.gif" width="400">
-</p>
